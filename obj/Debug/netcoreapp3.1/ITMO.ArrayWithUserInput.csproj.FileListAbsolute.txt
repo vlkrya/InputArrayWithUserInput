@@ -1,0 +1,13 @@
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/bin/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.deps.json
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/bin/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.runtimeconfig.json
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/bin/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.runtimeconfig.dev.json
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/bin/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.dll
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/bin/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.pdb
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.csproj.AssemblyReference.cache
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.AssemblyInfoInputs.cache
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.AssemblyInfo.cs
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.csproj.CoreCompileInputs.cache
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.dll
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.pdb
+/Users/anna/Projects/ITMO.ArrayWithUserInput/ITMO.ArrayWithUserInput/obj/Debug/netcoreapp3.1/ITMO.ArrayWithUserInput.genruntimeconfig.cache
